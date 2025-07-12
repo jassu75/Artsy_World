@@ -19,7 +19,7 @@ This project was developed by **Tejas Vinayaka Rao Kangod** using the **Artsy AP
 
 ## 📱 Artsy World Mobile App
 
-[View Repository](https://github.com/jassu75/Real-Time-Hand-Gesture-Recognition)
+[View Repository](https://github.com/jassu75/ArtsyMobileApp)
 
 **Technologies Used:**  
 - Kotlin  
@@ -33,7 +33,7 @@ This project was developed by **Tejas Vinayaka Rao Kangod** using the **Artsy AP
 
 ## 💻 Artsy World Website
 
-[View Repository](https://github.com/jassu75/Web-based-Hand-Gesture-Recognition)
+[View Repository](https://github.com/jassu75/Artsy-API-with-users)
 
 **Technologies Used:**  
 - React  
