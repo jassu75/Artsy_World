@@ -1,19 +1,23 @@
-# Artsy World
+# 🎨 Artsy World
 
-## Demo Link
+## 📽️ Demo Link  
 [Watch on YouTube](https://youtu.be/hZvGzY5E1-M?si=YZZYURf1fQQRUJk4)
 
-This project was developed by **Tejas Vinayaka Rao Kangod** using the **Artsy API**. It includes both a mobile app and a website version.
+This project was developed by **Tejas Vinayaka Rao Kangod** using the **Artsy API**. It includes both a **mobile app** and a **website** version.
 
-## Introduction
-🎨 **Your Gateway to the World of Art!** 🌍
+---
 
-- DISCOVER incredible artists from around the world  
-- EXPLORE their masterpieces and creative journeys  
-- FIND artworks and creators that match your unique taste  
-- DIVE into styles, movements, and inspirations you never knew you'd love  
+## 🌍 Introduction  
+**Your Gateway to the World of Art!**
 
-## Artsy World Mobile App
+- 🎨 **Discover** incredible artists from around the world  
+- 🖼️ **Explore** their masterpieces and creative journeys  
+- 🎯 **Find** artworks and creators that match your unique taste  
+- 💡 **Dive** into styles, movements, and inspirations you never knew you'd love  
+
+---
+
+## 📱 Artsy World Mobile App
 
 [View Repository](https://github.com/jassu75/Real-Time-Hand-Gesture-Recognition)
 
@@ -22,10 +26,12 @@ This project was developed by **Tejas Vinayaka Rao Kangod** using the **Artsy AP
 - Node.js  
 - Express  
 - MongoDB  
-- CookieJar & Stored Preferences  
+- Persistent CookieJar & Stored Preferences  
 - Retrofit  
 
-## Web-based Sign Language Recognition Model
+---
+
+## 💻 Artsy World Website
 
 [View Repository](https://github.com/jassu75/Web-based-Hand-Gesture-Recognition)
 
